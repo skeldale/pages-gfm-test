@@ -1,20 +1,7 @@
-# pages-gfm-test
+# pages-kramdown
 
-With `kramdown`, the characters below should be &#8746;. With `GFM`, it should be &#8745;:
+This page should be rendered using kramdown.
 
-&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;
+With `kramdown`, the characters below should be &#8746;. With `GFM`, they should be &#8745;:
 
-This may also prove a useful test:
-
-`````
-`
-``
-```
-````
-~~~~~~
-~~~~~
-~~~~
-~~~
-~~
-~
-`````
+&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;&cap;
